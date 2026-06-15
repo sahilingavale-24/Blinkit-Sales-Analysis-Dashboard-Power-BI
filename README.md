@@ -2,7 +2,6 @@
 Develop an interactive Power BI dashboard to analyze Blinkit's sales performance, customer satisfaction, outlet operations. The project aims to track key KPIs such as total sales, average sales, item count, and ratings, while identifying trends across product categories, outlet size, locations, and types to support data-driven business decisions.
 
 ## Dataset used
-- <a href="https://github.com/sahilingavale-24/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
 ## KPI's Requirements
 Total Sales: The overall revenue generated from all items sold.
@@ -13,8 +12,7 @@ Number of Items: The total count of different items sold.
 
 Average Rating: The average customer rating for items sold.
 
-- Dashboard Interaction <https://github.com/sahilingavale-24/Blinkit-Sales-Analysis-Dashboard-Power-BI/blob/main/Power%20BI%20Dashboard.png> View Dashboard</a>
-
+- Dashboard Interaction
 ## Process
 Import & Clean Data
 Load the Blinkit dataset into Power BI.
@@ -41,7 +39,7 @@ Add titles, labels, and KPI cards.
 Publish the dashboard to Power BI Service and share insights.
 
 ## Dashboard
-<img width="1285" height="599" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/8f51fd05-2a24-47aa-aaf7-264df60bfd9c" />
+<img 
 
 ## Project Insight
 1. Overall Business Performance
