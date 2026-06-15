@@ -42,6 +42,9 @@ Apply Blinkit-themed colors and layout.
 Add titles, labels, and KPI cards.
 Publish the dashboard to Power BI Service and share insights.
 
+## Dashboard
+<img width="1285" height="599" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/8f51fd05-2a24-47aa-aaf7-264df60bfd9c" />
+
 ## Project Insight
 1. Overall Business Performance
 Total Sales: $1.20M generated across all products.
