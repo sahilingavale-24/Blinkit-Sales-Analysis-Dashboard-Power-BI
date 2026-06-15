@@ -43,7 +43,7 @@ Add titles, labels, and KPI cards.
 Publish the dashboard to Power BI Service and share insights.
 
 ## Dashboard
-<img width="1285" height="599" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/8f51fd05-2a24-47aa-aaf7-264df60bfd9c" />
+<img <img width="1278" height="702" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/048ce24e-5581-40b1-9262-9450e737db67" />
 
 ## Project Insight
 1. Overall Business Performance
