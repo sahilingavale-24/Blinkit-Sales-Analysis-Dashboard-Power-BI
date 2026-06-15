@@ -4,10 +4,13 @@ Develop an interactive Power BI dashboard to analyze Blinkit's sales performance
 ## Dataset used
 - <a href="https://github.com/sahilingavale-24/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
-KPI's Requirements
+## KPI's Requirements
 Total Sales: The overall revenue generated from all items sold.
+
 Average Sales: The average revenue per sale.
+
 Number of Items: The total count of different items sold.
+
 Average Rating: The average customer rating for items sold.
 
 - Dashboard Interaction <a href="https://github.com/sahilingavale-24/Data-Analysis-Dashboard/blob/main/Excel%20Dashboard.png">View Dashboard</a>
