@@ -13,7 +13,7 @@ Number of Items: The total count of different items sold.
 
 Average Rating: The average customer rating for items sold.
 
-- Dashboard Interaction <a href="https://github.com/sahilingavale-24/Data-Analysis-Dashboard/blob/main/Excel%20Dashboard.png">View Dashboard</a>
+- Dashboard Interaction <a https://github.com/sahilingavale-24/Blinkit-Sales-Analysis-Dashboard-Power-BI/blob/main/Power%20BI%20Dashboard.png>View Dashboard</a>
 
 ## Process
 Import & Clean Data
